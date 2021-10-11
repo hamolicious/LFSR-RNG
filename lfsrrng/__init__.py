@@ -1,0 +1,1 @@
+from lfsrrng.generator import Generator
